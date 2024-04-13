@@ -1,0 +1,65 @@
+﻿@model Requests
+
+@{
+    ViewData["Title"] = "Requests";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+ <link rel="stylesheet" href="~/css/Style.css" /> 
+
+
+<main class="content px-3 py-2">
+    <div class="container-fluid">
+        <div class="mb-3">
+            <h4>Update Request Data</h4>
+        </div>
+        <form asp-action="Edit" asp-route-id="@Model?.RequestID" method="post" enctype="multipart/form-data">
+            <input type="hidden" asp-for="RequestID" /> <!-- Include RequestID as a hidden field -->
+
+            <div class="form-group">
+                <label asp-for="DateTime" class="control-label">Date Time</label>
+                <input asp-for="DateTime" class="form-control" />
+                <span asp-validation-for="DateTime" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Status" class="control-label">Status</label>
+                <select asp-for="Status" class="form-control">
+                    <option value="1">Pending</option>
+                    <option value="2">Approve</option>
+                    <option value="3">Decline</option>
+                    <option value="4">Done</option>
+                </select>
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="CarNumber" class="control-label">Car Number</label>
+                <input asp-for="CarNumber" class="form-control" />
+                <span asp-validation-for="CarNumber" class="text-danger"></span>
+            </div>
+
+            <!-- Display the existing image if available -->
+            <div class="form-group">
+                <label>Current Image</label>
+                @if (!string.IsNullOrEmpty(Model.ImageUrl))
+                {
+                    <img src="~/Files/Images/@Model.ImageUrl" class="img-fluid" width="70px" alt="Current Service Image" />
+                }
+                else
+                {
+                    <span>No Image</span>
+                }
+            </div>
+
+            <!-- Allow user to upload a new image -->
+            <div class="form-group">
+                <label asp-for="Image" class="control-label">Update Image</label>
+                <input asp-for="Image" type="file" class="form-control" accept="image/*">
+                <span asp-validation-for="Image" class="text-danger"></span>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Update Request</button>
+        </form>
+
+    </div>
+</main>

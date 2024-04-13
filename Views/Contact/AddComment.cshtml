@@ -1,0 +1,39 @@
+﻿@model Contact
+@{
+    ViewData["Title"] = "Contact";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link rel="stylesheet" href="~/css/Style.css" />
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 offset-md-3">
+            <div class="input" style="text-align:center;margin-top: 20px;">
+                <div><label class="form-label"><b>Add New Comment</b></label></div><br />
+                <div class="staffInfo">
+                    <form asp-action="AddComment" method="post">
+
+                        <div class="form-group" style="text-align:center;">
+                            <label asp-for="Name">Name:</label>
+                            <textarea class="form-control" id="Name" name="Name" required></textarea>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Email">Email:</label>
+                            <input type="email" class="form-control" id="Email" name="Email" required>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="PhoneNo">PhoneNo:</label>
+                            <input type="tel" class="form-control" id="PhoneNo" name="PhoneNo" required>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Comments">Comments:</label>
+                            <textarea class="form-control" id="Comments" name="Comments" required></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

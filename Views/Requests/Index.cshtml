@@ -1,0 +1,65 @@
+﻿@model List<Requests>
+
+@{
+    ViewData["Title"] = "Requests";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<main class="content px-3 py-2">
+    <div class="container-fluid">
+        @* <div class="mb-3">
+            <h4 style="text-align:center">Requests</h4>
+        </div> *@
+        <div class="container text-center mt-4">
+            @* <a asp-controller="Requests" asp-action="AddRequest"><button>add Request</button></a> *@
+            <!-- Table Element -->
+            <div class="card border-0">
+                <div class="card-body">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>DateTime</th>
+                                <th>Request Status</th>
+                                <th>CarNumber</th>
+                                <th>Image</th> <!-- New column for Image -->
+                               
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var request in Model)
+                            {
+                                <tr>
+                                    <td>@request.DateTime</td>
+                                    <td>@request.Status</td>
+                                    <td>@request.CarNumber</td>
+                                    <td>
+                                        @if (!string.IsNullOrEmpty(request.ImageUrl))
+                                        {
+                                            <img src="~/files/images/@request.ImageUrl" class="img-fluid" width="70px" alt="car image" />
+                                        }
+                                        else
+                                        {
+                                            <span>no image</span>
+                                        }
+                                    </td>
+                                    <td>
+                                        <a asp-action="Edit" asp-route-id="@request.RequestID">
+                                            <button class="btn btn-primary btn-sm mx-auto w-20">edit</button>
+                                        </a>
+                                        |
+                                        <a asp-action="delete" asp-route-id="@request.RequestID">
+                                            <button class="btn btn-danger btn-sm mx-auto w-40 text-center"
+                                                    onclick="return confirm('are you sure you want to delete this request with id : @request.RequestID and datetime : @request.DateTime?');">
+                                                delete
+                                            </button>
+                                        </a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>

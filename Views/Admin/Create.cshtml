@@ -1,0 +1,68 @@
+﻿@model ApplicationUser
+@{
+    ViewData["Title"] = "Students";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<link rel="stylesheet" href="~/css/Style.css" />
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 offset-md-3">
+            <div class="sec-3">
+                <div class="input">
+                   @*  <div class="search mb-3">
+                        <input type="search" name="search" class="form-control" placeholder="Enter Student Name">
+                        <button class="btn btn-primary">Search</button>
+                    </div> *@
+                    <div class="staffInfo">
+                        <form asp-action="Register" method="post">
+                          
+                            <div class="mb-3">
+                                <label asp-for="Name" class="form-label">Student Name:</label>
+                                <input type="text" id="Name" class="form-control">
+                            </div>
+                            <div class="mb-3">
+                                <label asp-for="Email" class="form-label">Email:</label>
+                                <input type="text" id="Email" class="form-control">
+                            </div>
+                            <div class="mb-3">
+                                <label asp-for="PhoneNo" class="form-label">Phone No.:</label>
+                                <input type="number" id="PhoneNo" class="form-control">
+                            </div>
+                            <div class="mb-3">
+                                <label asp-for="Address" class="form-label">Address:</label>
+                                <input type="text" id="Address" class="form-control">
+                            </div>
+                            <div class="mb-3">
+                                <label asp-for="Password" class="form-label">Password:</label>
+                                <input type="password" id="Password" class="form-control" placeholder="">
+                            </div>
+                            @* <div class="mb-3">
+                                <label asp-for="ConfirmPassword" class="form-label">Confirm Password:</label>
+                                <input type="password" id="ConfirmPassword" class="form-control" placeholder="">
+                            </div> *@
+                            <button type="submit" id="submit" class="btn btn-success">Add New Student</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<table class="table students">
+    <thead>
+        <tr>
+            <th>Stu_ID</th>
+            <th>Student Name</th>
+            <th>Password</th>
+            <th>Confirm Password</th>
+            <th>Phone No.</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    <tbody id="tbody">
+        <!-- Populate table rows dynamically -->
+    </tbody>
+</table>

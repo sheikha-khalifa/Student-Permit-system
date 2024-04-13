@@ -1,0 +1,35 @@
+﻿@model Feedback
+@{
+    ViewData["Title"] = "Feedback";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link rel="stylesheet" href="~/css/Style.css" />
+<div class="container">
+<div class="row">
+    <div class="col-md-6 offset-md-3">
+        <div class="input" style="text-align:center;margin-top: 20px;">
+            <div><label class="form-label"><b>Add New FeedBack</b></label></div><br />
+            <div class="staffInfo">
+<form asp-action="AddFeedback" method="post">
+    
+    <div class="form-group" style="text-align:center;">
+        <label asp-for="Feadback">Feedback:</label>
+        <textarea class="form-control" id="Feadback" name="Feadback" required></textarea>
+    </div>
+    <div class="form-group">
+        <label asp-for="dateTime">Date:</label>
+        <input type="date" class="form-control" id="DateTime" name="DateTime" required>
+    </div>
+    <div class="form-group">
+        <label asp-for="Rating">Rating:</label>
+        <input type="number" class="form-control" id="Rating" name="Rating" required>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+            </div>
+        </div>
+    </div>
+</div>
+</div>

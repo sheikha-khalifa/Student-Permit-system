@@ -1,0 +1,120 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="~/css/Style.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/css/bootstrap-grid.min.css" integrity="sha512-ZuRTqfQ3jNAKvJskDAU/hxbX1w25g41bANOVd1Co6GahIe2XjM6uVZ9dh0Nt3KFCOA061amfF2VeL60aJXdwwQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://kit.fontawesome.com/58c32c26b1.js" crossorigin="anonymous"></script>
+    @*
+    This line to apply the style services.css only when open services page,
+    since the style for this page only
+
+    *@
+    @if (ViewBag.AdditionalStyleBundle != null)
+    {
+        <link rel="stylesheet" href="@Url.Content(ViewBag.AdditionalStyleBundle)" />
+    }
+</head>
+<body class="d-flex flex-column min-vh-100">
+    <header>
+        <nav style="background-color: #004d4d; height: 100px;" class="navbar navbar-expand-lg navbar-dark bg-custom">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="#"><img src="~/images/logo.png" height="60px" width="60px" alt="Student_Permit_Logo"></a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarColor01">
+                    <ul class="navbar-nav me-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="About">About</a>
+                        </li>
+                       @*  <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="Requests">Requests</a>
+                        </li> *@
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Contact" asp-action="AddComment">Contact Us</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="admin" asp-action="viewusers">admin</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Feedback" asp-action="AddFeedback">Feedback</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Requests" asp-action="AddRequest">Add Request</a>
+                        </li>
+                       @*  <li class="nav-item">
+                            <a class="nav-link" asp-controller="Account" asp-action="ForgetPassword">forget password</a>
+                        </li> *@
+                        <li class="nav-item">
+                            <form id="logoutForm" asp-action="Logout" asp-controller="Account" method="post">
+                                <button type="submit">Logout</button>
+                            </form>@* <a class="nav-link" asp-controller="account" asp-action="logout">admin logout</a> *@
+                        </li>
+                    </ul>
+                   @*  <ul class="navbar-nav ms-auto">
+                        <li class="nav-item pe-2"><a asp-controller="Account" asp-action="Register" class="nav-link"><i class="fa-solid fa-user-plus"></i> Sign up</a></li>
+                        <li class="nav-item"><a asp-controller="Account" asp-action="Login" class="nav-link"><i class="fa-solid fa-right-to-bracket"></i> Login</a></li>
+                     </ul> *@
+                    <ul class="navbar-nav mt-auto align-content-center align-items-center m-2">
+                        
+                            <partial name="_LoginPartial" />
+
+                        
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="flex-grow-1">
+        <div class="container">
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+        </div>
+    </div>
+
+    <div style="background-color: #004d4d;" class="bg-custom">
+        <footer class="d-flex flex-wrap justify-content-between mt-auto align-items-center py-3 my-4 mb-0 border-top text-white">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4">
+                        <a href="/" class="mb-3 me-2 mb-md-0 text-decoration-none lh-1">
+                            <svg class="bi" width="30" height="24"><use xlink:href="#bootstrap" /></svg>
+                        </a>
+                        <span class="mb-3 mb-md-0">&copy; 2024 Company, Inc</span>
+                    </div>
+
+                    <div class="col-md-4">
+                        <h5 class="text-white">Get In Touch</h5>
+                        <div class="d-flex">
+                            <i class="fa-brands fa-instagram text-white p-2" style="font-size: 1.5rem;"></i>
+                            <i class="fa-brands fa-square-facebook text-white p-2" style="font-size: 1.5rem;"></i>
+                            <i class="fa-brands fa-x-twitter text-white p-2" style="font-size: 1.5rem;"></i>
+                        </div>
+                    </div>
+                    <div class="col-md-4 text-center text-md-start">
+                        <h5 class="text-white">Student Permit System Contacts</h5>
+                        <p><i class="fa-solid fa-envelope"></i> Email: Hajer22@gmail.com</p>
+                        <p><i class="fa-solid fa-phone"></i> Phone: 97874736</p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/script.js"></script>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+    @await RenderSectionAsync("ClientSideValidation", required: false)
+</body>
+</html>

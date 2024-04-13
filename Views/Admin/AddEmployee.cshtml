@@ -1,0 +1,42 @@
+﻿@model ApplicationUser
+@{
+    ViewData["Title"] = "Employee";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<link rel="stylesheet" href="~/css/Style.css" />
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 offset-md-3">
+            <div class="input" style="text-align:center;margin-top: 55px;">
+                <div><label class="form-label"><b>Add New Employee</b></label></div><br /><br />
+                <div class="staffInfo">
+                    <form asp-action="AddEmployee" method="post">
+                        <div class="mb-3">
+                            <label asp-for="Name" class="form-label">Employee Name:</label>
+                            <input asp-for="Name" id="Name" class="form-control">
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="Email" class="form-label">Email:</label>
+                            <input asp-for="Email" id="Email" class="form-control">
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="PhoneNo" class="form-label">Phone No.:</label>
+                            <input asp-for="PhoneNo" id="PhoneNo" class="form-control">
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="Address" class="form-label">Address:</label>
+                            <input asp-for="Address" id="Address" class="form-control">
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="Password" class="form-label">Password:</label>
+                            <input asp-for="Password" id="password" class="form-control" placeholder="">
+                        </div>
+                        <button type="submit" id="submit" class="btn btn-success">Add New Employee</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,46 @@
+﻿@model List<Feedback>
+
+@{
+    ViewData["Title"] = "Feedback";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<link rel="stylesheet" href="~/css/Style.css" />
+@* //view //edit *@
+
+<h2>Feedback</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            @* <th>ID</th> *@
+            <th>Rating</th>
+            <th>Feedback</th>
+            <th>DateTime</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+              @*   <td>@item.FeedbackID</td> *@
+                <td>@item.Rating</td>
+                <td>@item.Feadback</td>
+                <td>@item.dateTime</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.FeedbackID">
+                        <button class="btn btn-primary btn-sm mx-auto w-20">Edit</button>
+                        </a> |
+                    <a asp-action="Delete" asp-route-id="@item.FeedbackID">
+                        <button class="btn btn-danger btn-sm mx-auto w-40 text-center"
+                                onclick="return confirm('are you sure you want to delete this request with id : @item.FeedbackID and datetime : @item.dateTime?');">
+                            delete
+                        </button>
+                    </a>
+                    </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<button style="align-content:center"><a asp-action="AddFeedback">Add Feedback</a></button>

@@ -1,0 +1,52 @@
+﻿@model Requests;
+
+@{
+    ViewData["Title"] = "Requests";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<main class="content px-3 py-2">
+    <div class="container-fluid">
+        <div class="mb-3">
+           @*  <h4>Add Request</h4> *@
+        </div>
+        <div class="row d-flex border-2 justify-content-center align-items-center h-100">
+            <div id="main" class="w-50 border-2 rounded-2 p-2">
+                <!-- Form Element -->
+                <form asp-action="AddRequest" method="post" enctype="multipart/form-data" class="form" asp-validation-summary="All">
+                    <!-- DateTime -->
+                    <div class="form-group">
+                        <label asp-for="DateTime" class="form-label">DateTime:</label>
+                        <input asp-for="DateTime" class="form-control" type="text" id="DateTime">
+                        <span asp-validation-for="DateTime" class="text-danger"></span>
+                    </div>
+
+                    <!-- Status -->
+                   @*  <div class="form-group">
+                        <label asp-for="Status" class="form-label">Status :</label>
+                        <input asp-for="Status" class="form-control" type="number" id="Status">
+                        <span asp-validation-for="Status" class="text-danger"></span>
+                    </div> *@
+
+                    <!-- request CarNumber -->
+                    <div class="form-group">
+                        <label asp-for="CarNumber" class="form-label">CarNumber :</label>
+                        <textarea asp-for="CarNumber" class="form-control" name="CarNumber" id="CarNumber" cols="20" rows="5"></textarea>
+                        <span asp-validation-for="CarNumber" class="text-danger"></span>
+                    </div>
+                    <!-- image -->
+                    <div class="form-group">
+                        <label asp-for="ImageUrl" class="form-label">Upload Image :</label>
+                        <input asp-for="ImageUrl" class="form-control" type="file" accept="image/*">
+                        <span asp-validation-for="ImageUrl" class="text-danger"></span>
+                    </div>
+
+                    <!-- submit button -->
+                    <div class="text-center mt-3">
+                        <button type="submit" class="mx-5 w-75 mt-3">Add</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</main>
