@@ -22,14 +22,14 @@ namespace student_permit_system.PL.Models
         [Required]
         [DataType(DataType.Date)]
         public DateTime dateTime{ get; set; }
-
+        //relationship
         [ForeignKey("RequestID")]
         public int RequestID { get; set; }
 
         [ForeignKey("StudentID")]
         public int StudentID { get; set; }
 
-//        //relationships
+    //relationships
 //        [ForeignKey("RequestID")]
 //public int RequestID { get; set; }
 

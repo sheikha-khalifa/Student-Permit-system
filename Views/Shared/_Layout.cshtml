@@ -34,34 +34,31 @@
                         <li class="nav-item">
                             <a class="nav-link" asp-controller="Home" asp-action="About">About</a>
                         </li>
-                       @*  <li class="nav-item">
-                            <a class="nav-link" asp-controller="Home" asp-action="Requests">Requests</a>
-                        </li> *@
-                        <li class="nav-item">
+                         <li class="nav-item">
                             <a class="nav-link" asp-controller="Contact" asp-action="AddComment">Contact Us</a>
                         </li>
-                        <li class="nav-item">
+                       @*  <li class="nav-item">
                             <a class="nav-link" asp-controller="admin" asp-action="viewusers">admin</a>
-                        </li>
+                        </li> *@
                         <li class="nav-item">
                             <a class="nav-link" asp-controller="Feedback" asp-action="AddFeedback">Feedback</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" asp-controller="Requests" asp-action="AddRequest">Add Request</a>
                         </li>
-                       @*  <li class="nav-item">
+                        <li class="nav-item">
                             <a class="nav-link" asp-controller="Account" asp-action="ForgetPassword">forget password</a>
-                        </li> *@
+                        </li> 
                         <li class="nav-item">
                             <form id="logoutForm" asp-action="Logout" asp-controller="Account" method="post">
                                 <button type="submit">Logout</button>
-                            </form>@* <a class="nav-link" asp-controller="account" asp-action="logout">admin logout</a> *@
+                            </form> @* <a class="nav-link" asp-controller="account" asp-action="logout">admin logout</a>  *@
                         </li>
                     </ul>
                    @*  <ul class="navbar-nav ms-auto">
                         <li class="nav-item pe-2"><a asp-controller="Account" asp-action="Register" class="nav-link"><i class="fa-solid fa-user-plus"></i> Sign up</a></li>
                         <li class="nav-item"><a asp-controller="Account" asp-action="Login" class="nav-link"><i class="fa-solid fa-right-to-bracket"></i> Login</a></li>
-                     </ul> *@
+                     </ul>*@
                     <ul class="navbar-nav mt-auto align-content-center align-items-center m-2">
                         
                             <partial name="_LoginPartial" />

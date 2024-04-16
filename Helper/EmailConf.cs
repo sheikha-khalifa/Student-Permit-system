@@ -12,7 +12,7 @@ namespace student_permit_system.PL.Helper
             var client = new SmtpClient("smtp.gmail.com", 465);
             client.EnableSsl = true;
             //								account Credentials  ||  Passwrod Generated Once 
-            client.Credentials = new NetworkCredential("@gmail.com", "----------");
+            client.Credentials = new NetworkCredential("studsystem2024@outlook.com", "Abc@12345678");
             client.Send("SenderEmail", em.To, em.title, em.Body);
 
         }

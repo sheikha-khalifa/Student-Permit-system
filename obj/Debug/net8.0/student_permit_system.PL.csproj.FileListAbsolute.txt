@@ -150,3 +150,4 @@ C:\Users\Dell\Desktop\students project\student_permit_system\obj\Debug\net8.0\st
 C:\Users\Dell\Desktop\students project\student_permit_system\obj\Debug\net8.0\student_permit_system.PL.genruntimeconfig.cache
 C:\Users\Dell\Desktop\students project\student_permit_system\obj\Debug\net8.0\ref\student_permit_system.PL.dll
 C:\Users\Dell\Desktop\students project\student_permit_system\obj\Debug\net8.0\scopedcss\Views\Shared\_StudentLayout.cshtml.rz.scp.css
+C:\Users\Dell\Desktop\students project\student_permit_system\obj\Debug\net8.0\student_permit_system.PL.sourcelink.json

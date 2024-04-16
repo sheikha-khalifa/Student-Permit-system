@@ -13,29 +13,6 @@ namespace student_permit_system.PL.Models
 {
     public class Students:ApplicationUser
     {
-        //[Key]
-        //[DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        //public int StudentID { get; set; }
-
-        //[Required]
-        //[MaxLength(80)]
-        //public string Name { get; set; }
-
-
-        //[Required]
-        //[EmailAddress]
-        //public string Email { get; set; }
-        //[Required]
-        //[MaxLength(8)]
-        //public string Password { get; set; }
-
-        //[Required]
-        //public string Address { get; set; }
-
-        //[Required]
-        //public string CarNumber { get; set; }
-        //[Required]
-        //public string CarImage { get; set; }
-       
+      
     }
 }
