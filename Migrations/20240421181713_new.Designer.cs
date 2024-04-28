@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using student_permit_system.PL.Data;
 
@@ -11,9 +12,11 @@ using student_permit_system.PL.Data;
 namespace student_permit_system.PL.Migrations
 {
     [DbContext(typeof(ApplicationDBContext))]
-    partial class ApplicationDBContextModelSnapshot : ModelSnapshot
+    [Migration("20240421181713_new")]
+    partial class @new
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -321,6 +324,9 @@ namespace student_permit_system.PL.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("RequestID"));
 
+                    b.Property<string>("AdminId")
+                        .HasColumnType("nvarchar(450)");
+
                     b.Property<string>("CarNumber")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -332,6 +338,7 @@ namespace student_permit_system.PL.Migrations
                         .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("Id")
+                        .IsRequired()
                         .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("ImageUrl")
@@ -342,6 +349,8 @@ namespace student_permit_system.PL.Migrations
                         .HasColumnType("int");
 
                     b.HasKey("RequestID");
+
+                    b.HasIndex("AdminId");
 
                     b.HasIndex("EmpID");
 
@@ -424,17 +433,28 @@ namespace student_permit_system.PL.Migrations
 
             modelBuilder.Entity("student_permit_system.PL.Models.Requests", b =>
                 {
+                    b.HasOne("student_permit_system.PL.Models.Admin", null)
+                        .WithMany("ApprovedRequests")
+                        .HasForeignKey("AdminId");
+
                     b.HasOne("student_permit_system.PL.Models.Employee", "Employee")
                         .WithMany("ApprovedRequests")
                         .HasForeignKey("EmpID");
 
                     b.HasOne("student_permit_system.PL.Models.ApplicationUser", "Student")
                         .WithMany()
-                        .HasForeignKey("Id");
+                        .HasForeignKey("Id")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.Navigation("Employee");
 
                     b.Navigation("Student");
+                });
+
+            modelBuilder.Entity("student_permit_system.PL.Models.Admin", b =>
+                {
+                    b.Navigation("ApprovedRequests");
                 });
 
             modelBuilder.Entity("student_permit_system.PL.Models.Employee", b =>

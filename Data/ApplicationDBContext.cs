@@ -15,6 +15,7 @@ namespace student_permit_system.PL.Data
         }
         public DbSet<ApplicationUser> ApplicationUsers { get; set; }
         public DbSet<Students> Students { get; set; }
+        public DbSet<Admin> Admin { get; set; }
         public DbSet<Employee> Employees { get; set; }
         public DbSet<Feedback> Feedback { get; set; }
         public DbSet<Requests> Requests { get; set; }

@@ -4,15 +4,15 @@
     Layout = "~/Views/Shared/_AdminLayout.cshtml";
 }
 
-<link rel="stylesheet" href="~/css/Style.css" />
-
+@* <link rel="stylesheet" href="~/css/Style.css" />
+ *@
 <div class="container">
     <div class="row">
         <div class="col-md-6 offset-md-3">
             <div class="input" style="text-align:center;margin-top: 55px;">
                 <div><label class="form-label"><b>Add New Amin</b></label></div><br /><br />
                 <div class="staffInfo">
-                    <form asp-action="AddEmployee" method="post">
+                    <form asp-action="AddAdmin" method="post">
                         <div class="mb-3">
                             <label asp-for="Name" class="form-label">Admin Name:</label>
                             <input asp-for="Name" id="Name" class="form-control">

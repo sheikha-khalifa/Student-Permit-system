@@ -18,11 +18,12 @@
         <link rel="stylesheet" href="@Url.Content(ViewBag.AdditionalStyleBundle)" />
     }
 </head>
-<body class="d-flex flex-column min-vh-100">
+<body class="d-flex flex-column min-vh-100" style="background-image: url('/images/bg.png');">
+
     <header>
         <nav style="background-color: #004d4d; height: 100px;" class="navbar navbar-expand-lg navbar-dark bg-custom">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#"><img src="~/images/logo.png" height="60px" width="60px" alt="Student_Permit_Logo"></a>
+                <a class="navbar-brand" href="#"><img src="~/images/logo2.png" height="60px" width="60px" alt="Student_Permit_Logo"></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -46,13 +47,13 @@
                         <li class="nav-item">
                             <a class="nav-link" asp-controller="Requests" asp-action="AddRequest">Add Request</a>
                         </li>
-                        <li class="nav-item">
+@*                         <li class="nav-item">
                             <a class="nav-link" asp-controller="Account" asp-action="ForgetPassword">forget password</a>
                         </li> 
-                        <li class="nav-item">
+ *@                        <li class="nav-item">
                             <form id="logoutForm" asp-action="Logout" asp-controller="Account" method="post">
                                 <button type="submit">Logout</button>
-                            </form> @* <a class="nav-link" asp-controller="account" asp-action="logout">admin logout</a>  *@
+                            </form>
                         </li>
                     </ul>
                    @*  <ul class="navbar-nav ms-auto">

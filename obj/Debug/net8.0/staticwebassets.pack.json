@@ -109,8 +109,20 @@
       "PackagePath": "staticwebassets\\Files\\images\\f895d892-b6fd-4eba-ab30-ad6b74119f04.PNG"
     },
     {
+      "Id": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\wwwroot\\Images\\Bg.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Bg.jpeg"
+    },
+    {
       "Id": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\wwwroot\\Images\\LOGO.PNG",
       "PackagePath": "staticwebassets\\Images\\LOGO.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\wwwroot\\Images\\bg.png",
+      "PackagePath": "staticwebassets\\Images\\bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\wwwroot\\Images\\logo2.png",
+      "PackagePath": "staticwebassets\\Images\\logo2.png"
     },
     {
       "Id": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\wwwroot\\Images\\permit.png",

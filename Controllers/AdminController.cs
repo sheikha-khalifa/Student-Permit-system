@@ -83,7 +83,7 @@ namespace student_permit_system.PL.Controllers
         {
             if (ModelState.IsValid)
             {
-                var user = new Employee
+                var user = new Admin
                 {
                     UserName = model.Email,
                     Email = model.Email,

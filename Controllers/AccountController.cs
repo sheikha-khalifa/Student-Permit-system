@@ -82,7 +82,7 @@ namespace student_permit_system.PL.Controllers
 
                         if (roles.Contains("Admin"))
                         {
-                            return RedirectToAction("Index", "Admin");
+                            return RedirectToAction("ViewUsers", "Admin");
                         }
                         else if (roles.Contains("Student"))
                         {

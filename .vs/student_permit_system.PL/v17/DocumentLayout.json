@@ -3,20 +3,164 @@
   "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\shared\\_studentlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\shared\\_studentlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\feedback\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\feedback\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\requests\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\requests\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\feedback\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\feedback\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\feedback\\addfeedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\feedback\\addfeedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\admin\\editemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\admin\\editemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\admin\\deleteemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\admin\\deleteemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\admin\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\admin\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\admin\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\admin\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\admin\\addadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\admin\\addadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\admin\\viewusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\admin\\viewusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\account\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\account\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\account\\emailsent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\account\\emailsent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Migrations\\20240421182636_new2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240421182636_new2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Migrations\\20240421181856_new2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240421181856_new2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Migrations\\20240421181713_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240421181713_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\shared\\_studentlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\shared\\_studentlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\requests\\studentsview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -31,32 +175,12 @@
       "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:helper\\documentconf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\feedback\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\feedback\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\feedback\\addfeedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\feedback\\addfeedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\feedback\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\feedback\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -75,28 +199,8 @@
       "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\migrations\\20240404180656_startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:migrations\\20240404180656_startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\models\\requests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -105,10 +209,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -135,22 +235,6 @@
       "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\requests\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\requests\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\requests\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -163,40 +247,8 @@
       "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\admin\\addadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\admin\\addadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\admin\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\admin\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\account\\emailsent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\account\\emailsent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\account\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\account\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\admin\\viewusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\admin\\viewusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\contact\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -205,10 +257,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\contact\\addcomment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\contact\\addcomment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\feedback\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -247,30 +295,6 @@
       "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\students\\addrequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\admin\\editemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\admin\\editemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\admin\\deleteemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\admin\\deleteemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\admin\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\admin\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|c:\\users\\dell\\desktop\\students project\\student_permit_system\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EF43D8E4-F98D-437F-B825-73EBB68301B5}|student_permit_system.PL.csproj|solutionrelative:views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Migrations\\20240326023751_starting3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240326023751_starting3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -302,7 +326,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -310,150 +334,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DocumentConf.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Helper\\DocumentConf.cs",
-              "RelativeDocumentMoniker": "Helper\\DocumentConf.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Helper\\DocumentConf.cs",
-              "RelativeToolTip": "Helper\\DocumentConf.cs",
-              "ViewState": "AQIAAA8AAAAABDMzMzPjvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T04:24:51.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EmailConf.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Helper\\EmailConf.cs",
-              "RelativeDocumentMoniker": "Helper\\EmailConf.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Helper\\EmailConf.cs",
-              "RelativeToolTip": "Helper\\EmailConf.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T18:13:38.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-01T17:05:28.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_StudentLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Shared\\_StudentLayout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_StudentLayout.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Shared\\_StudentLayout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_StudentLayout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-02T18:23:42.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "StudentsView.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Requests\\StudentsView.cshtml",
-              "RelativeDocumentMoniker": "Views\\Requests\\StudentsView.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Requests\\StudentsView.cshtml",
-              "RelativeToolTip": "Views\\Requests\\StudentsView.cshtml",
-              "ViewState": "AQIAAAYAAABAZmZmZmYkwAQAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-01T03:06:59.658Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAE0AAACALTMzMzMbwFoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-21T15:30:44.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAC4AAAAAYmZmZuYawDYAAAB8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-21T16:44:49.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "StudentsController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Controllers\\StudentsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Controllers\\StudentsController.cs",
-              "RelativeToolTip": "Controllers\\StudentsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T15:52:41.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "FeedbackController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Controllers\\FeedbackController.cs",
-              "RelativeDocumentMoniker": "Controllers\\FeedbackController.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Controllers\\FeedbackController.cs",
-              "RelativeToolTip": "Controllers\\FeedbackController.cs",
-              "ViewState": "AQIAAAoAAAAAlZmZmZkVwCUAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T15:59:06.048Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AQIAADwAAAAATgAAAAD6v1IAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T16:39:17.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Feedback\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Feedback\\Index.cshtml",
               "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Feedback\\Index.cshtml",
               "RelativeToolTip": "Views\\Feedback\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAQAAAA",
+              "ViewState": "AQIAAC0AAACAMzMzMzMbwDkAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-24T16:49:00.906Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "AddFeedback.cshtml",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Feedback\\AddFeedback.cshtml",
               "RelativeDocumentMoniker": "Views\\Feedback\\AddFeedback.cshtml",
@@ -466,20 +360,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "Shared\\_AdminLayout.cshtml",
-              "ViewState": "AQIAABAAAAAAKTMzMzMLwA8AAAAqAAAA",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-23T04:34:47.101Z",
+              "WhenOpened": "2024-03-21T15:31:08.787Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Feedback\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Feedback\\Edit.cshtml",
@@ -492,137 +386,319 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAYAAACAZWZmZmYkwAAAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Requests\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Requests\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Requests\\Index.cshtml",
+              "RelativeToolTip": "Views\\Requests\\Index.cshtml",
+              "ViewState": "AQIAAAQAAABg/////z8lwDwAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-23T04:34:19.575Z",
+              "WhenOpened": "2024-03-21T15:30:28.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T17:37:51.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T15:30:44.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAgAAAAA/f////8WwBQAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T16:44:49.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Style.css",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\wwwroot\\css\\Style.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\Style.css",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\wwwroot\\css\\Style.css",
+              "RelativeToolTip": "wwwroot\\css\\Style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-28T15:42:25.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Login.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwBwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T16:40:35.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditEmployee.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Admin\\EditEmployee.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\EditEmployee.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Admin\\EditEmployee.cshtml",
+              "RelativeToolTip": "Views\\Admin\\EditEmployee.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T07:03:31.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DeleteEmployee.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Admin\\DeleteEmployee.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\DeleteEmployee.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Admin\\DeleteEmployee.cshtml",
+              "RelativeToolTip": "Views\\Admin\\DeleteEmployee.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T07:23:33.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Admin\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Admin\\Create.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Create.cshtml",
+              "ViewState": "AQIAAAEAAADiZWZmZiYwwAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T05:59:25.095Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "AddStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Admin\\AddStudent.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AddStudent.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Admin\\AddStudent.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AddStudent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T01:09:14.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Admin\\AddAdmin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AddAdmin.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Admin\\AddAdmin.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AddAdmin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T21:14:30.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddEmployee.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Admin\\AddEmployee.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\AddEmployee.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Admin\\AddEmployee.cshtml",
+              "RelativeToolTip": "Views\\Admin\\AddEmployee.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T06:21:19.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ViewUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Admin\\ViewUsers.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\ViewUsers.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Admin\\ViewUsers.cshtml",
+              "RelativeToolTip": "Views\\Admin\\ViewUsers.cshtml",
+              "ViewState": "AQIAAA8AAACAZGZmZmYkwAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T15:30:34.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "_AdminLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_AdminLayout.cshtml",
               "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AQIAABoAAABAZGZmZmYkwB0AAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-21T15:29:53.527Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "StudentsView.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Students\\StudentsView.cshtml",
-              "RelativeDocumentMoniker": "Views\\Students\\StudentsView.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Students\\StudentsView.cshtml",
-              "RelativeToolTip": "Views\\Students\\StudentsView.cshtml",
-              "ViewState": "AQIAAAEAAADAMzMzMzMbwDoAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-01T16:00:22.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "Views\\Account\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-21T15:30:51.921Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T06:17:49.794Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Feedback.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Models\\Feedback.cs",
-              "RelativeDocumentMoniker": "Models\\Feedback.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Models\\Feedback.cs",
-              "RelativeToolTip": "Models\\Feedback.cs",
-              "ViewState": "AQIAAA0AAACYVmZmZmYUwBgAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T17:11:50.011Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ApplicationDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Data\\ApplicationDBContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDBContext.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Data\\ApplicationDBContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDBContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T04:22:00.26Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-13T03:00:30.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Students.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Models\\Students.cs",
-              "RelativeDocumentMoniker": "Models\\Students.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Models\\Students.cs",
-              "RelativeToolTip": "Models\\Students.cs",
-              "ViewState": "AQIAAAkAAACAMjMzMzMbwA8AAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T15:09:11.56Z",
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T05:44:04.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "Requests.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Models\\Requests.cs",
-              "RelativeDocumentMoniker": "Models\\Requests.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Models\\Requests.cs",
-              "RelativeToolTip": "Models\\Requests.cs",
-              "ViewState": "AQIAAAEAAACAMTMzMzMrwA0AAAAFAAAA",
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Views\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T17:48:38.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmailSent.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Account\\EmailSent.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\EmailSent.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Account\\EmailSent.cshtml",
+              "RelativeToolTip": "Views\\Account\\EmailSent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T17:41:22.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T16:17:00.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T16:32:07.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AQIAACEAAAAAuGVmZuYawC4AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T05:42:21.263Z",
+              "WhenOpened": "2024-03-26T18:15:04.578Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAIAAAAAADAAAAAAYwIIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T16:39:17.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ForgetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Account\\ForgetPassword.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\ForgetPassword.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Account\\ForgetPassword.cshtml",
+              "RelativeToolTip": "Views\\Account\\ForgetPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T17:41:25.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Controllers\\ContactController.cs",
+              "ViewState": "AQIAADEAAAAALTMzM/MpwCYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:37:05.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240421182636_new2.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Migrations\\20240421182636_new2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240421182636_new2.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Migrations\\20240421182636_new2.cs",
+              "RelativeToolTip": "Migrations\\20240421182636_new2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T18:26:36.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
@@ -635,7 +711,281 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 31,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T18:05:40.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Models\\Admin.cs",
+              "RelativeToolTip": "Models\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T18:13:30.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20240421181856_new2.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Migrations\\20240421181856_new2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240421181856_new2.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Migrations\\20240421181856_new2.cs",
+              "RelativeToolTip": "Migrations\\20240421181856_new2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T18:18:56.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Models\\Students.cs",
+              "RelativeDocumentMoniker": "Models\\Students.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Models\\Students.cs",
+              "RelativeToolTip": "Models\\Students.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T15:09:11.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-13T03:00:30.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240421181713_new.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Migrations\\20240421181713_new.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240421181713_new.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Migrations\\20240421181713_new.cs",
+              "RelativeToolTip": "Migrations\\20240421181713_new.cs",
+              "ViewState": "AQIAAEUAAAAA/v////8XwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T18:17:13.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAwyczMzMwXwEQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T06:17:49.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T04:22:00.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAABAAAAAA8v////8PwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T17:01:27.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "StudentsView.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Requests\\StudentsView.cshtml",
+              "RelativeDocumentMoniker": "Views\\Requests\\StudentsView.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Requests\\StudentsView.cshtml",
+              "RelativeToolTip": "Views\\Requests\\StudentsView.cshtml",
+              "ViewState": "AQIAAAYAAABAZmZmZmYkwAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T03:06:59.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_StudentLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Shared\\_StudentLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_StudentLayout.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Shared\\_StudentLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_StudentLayout.cshtml",
+              "ViewState": "AQIAAEwAAAAA/P////8AwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T18:23:42.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T17:05:28.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EmailConf.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Helper\\EmailConf.cs",
+              "RelativeDocumentMoniker": "Helper\\EmailConf.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Helper\\EmailConf.cs",
+              "RelativeToolTip": "Helper\\EmailConf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:13:38.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DocumentConf.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Helper\\DocumentConf.cs",
+              "RelativeDocumentMoniker": "Helper\\DocumentConf.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Helper\\DocumentConf.cs",
+              "RelativeToolTip": "Helper\\DocumentConf.cs",
+              "ViewState": "AQIAAA8AAAAABDMzMzPjvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T04:24:51.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T15:52:41.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Controllers\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FeedbackController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Controllers\\FeedbackController.cs",
+              "RelativeToolTip": "Controllers\\FeedbackController.cs",
+              "ViewState": "AQIAAAoAAAAAlZmZmZkVwCUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T15:59:06.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAABAAAAAAKTMzMzMLwA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T04:34:47.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAACAZWZmZmYkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T04:34:19.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "StudentsView.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Students\\StudentsView.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\StudentsView.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Students\\StudentsView.cshtml",
+              "RelativeToolTip": "Views\\Students\\StudentsView.cshtml",
+              "ViewState": "AQIAAAEAAADAMzMzMzMbwDoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T16:00:22.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T15:30:51.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "Models\\Feedback.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Models\\Feedback.cs",
+              "RelativeToolTip": "Models\\Feedback.cs",
+              "ViewState": "AQIAAA0AAACYVmZmZmYUwBgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T17:11:50.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Requests.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Models\\Requests.cs",
+              "RelativeDocumentMoniker": "Models\\Requests.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Models\\Requests.cs",
+              "RelativeToolTip": "Models\\Requests.cs",
+              "ViewState": "AQIAAAEAAACAMTMzMzMrwA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T05:42:21.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
               "Title": "20240404180656_startup.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Migrations\\20240404180656_startup.cs",
               "RelativeDocumentMoniker": "Migrations\\20240404180656_startup.cs",
@@ -643,25 +993,11 @@
               "RelativeToolTip": "Migrations\\20240404180656_startup.cs",
               "ViewState": "AQIAAAkAAACAl5mZmZkVwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T03:59:54.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-13T03:59:54.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Models\\Employee.cs",
-              "RelativeToolTip": "Models\\Employee.cs",
-              "ViewState": "AQIAAAkAAAAQmpmZmdkhwA8AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T18:05:40.964Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 52,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -669,12 +1005,11 @@
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T03:42:45.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T03:42:45.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 53,
               "Title": "Contact.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Models\\Contact.cs",
               "RelativeDocumentMoniker": "Models\\Contact.cs",
@@ -682,12 +1017,11 @@
               "RelativeToolTip": "Models\\Contact.cs",
               "ViewState": "AQIAAAUAAABo//////8wwCAAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T17:38:48.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-04T17:38:48.438Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 54,
               "Title": "Email.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Models\\Email.cs",
               "RelativeDocumentMoniker": "Models\\Email.cs",
@@ -695,12 +1029,11 @@
               "RelativeToolTip": "Models\\Email.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T05:48:31.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T05:48:31.935Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 55,
               "Title": "RequestsController.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Controllers\\RequestsController.cs",
               "RelativeDocumentMoniker": "Controllers\\RequestsController.cs",
@@ -708,12 +1041,11 @@
               "RelativeToolTip": "Controllers\\RequestsController.cs",
               "ViewState": "AQIAAB4AAAAA/P////8fwDUAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T07:12:59.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-22T07:12:59.846Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 56,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Requests\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Requests\\Delete.cshtml",
@@ -721,12 +1053,11 @@
               "RelativeToolTip": "Views\\Requests\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-22T07:00:23.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-22T07:00:23.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 57,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Requests\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Requests\\Edit.cshtml",
@@ -734,64 +1065,11 @@
               "RelativeToolTip": "Views\\Requests\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-21T15:30:23.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-21T15:30:23.547Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Requests\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Requests\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Requests\\Index.cshtml",
-              "RelativeToolTip": "Views\\Requests\\Index.cshtml",
-              "ViewState": "AQIAABcAAAAAMjMzMzMrwBkAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-21T15:30:28.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAA8AAABA/v////80wAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T17:01:27.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Controllers\\ContactController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Controllers\\ContactController.cs",
-              "RelativeToolTip": "Controllers\\ContactController.cs",
-              "ViewState": "AQIAADAAAACAlpmZmfk9wCYAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T17:37:05.85Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "Controllers\\AdminController.cs",
-              "ViewState": "AQIAAA8BAAAAoAAAAAD0vxgBAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T18:15:04.578Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 58,
               "Title": "script.js",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\wwwroot\\js\\script.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\script.js",
@@ -799,12 +1077,11 @@
               "RelativeToolTip": "wwwroot\\js\\script.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-13T03:27:52.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-13T03:27:52.061Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 59,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
@@ -812,12 +1089,11 @@
               "RelativeToolTip": "wwwroot\\js\\site.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-03-23T04:27:09.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-23T04:27:09.025Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 60,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -825,86 +1101,11 @@
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-13T03:26:33.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-13T03:26:33.938Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "AddAdmin.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Admin\\AddAdmin.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\AddAdmin.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Admin\\AddAdmin.cshtml",
-              "RelativeToolTip": "Views\\Admin\\AddAdmin.cshtml",
-              "ViewState": "AQIAAAQAAADA+////38ZwCkAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-12T21:14:30.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Style.css",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\wwwroot\\css\\Style.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\Style.css",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\wwwroot\\css\\Style.css",
-              "RelativeToolTip": "wwwroot\\css\\Style.css",
-              "ViewState": "AQIAAJEAAAAAeDMzMzP7vwgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-28T15:42:25.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "EmailSent.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Account\\EmailSent.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\EmailSent.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Account\\EmailSent.cshtml",
-              "RelativeToolTip": "Views\\Account\\EmailSent.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-27T17:41:22.615Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "AddEmployee.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Admin\\AddEmployee.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\AddEmployee.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Admin\\AddEmployee.cshtml",
-              "RelativeToolTip": "Views\\Admin\\AddEmployee.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-22T06:21:19.596Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "Views\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-21T15:31:08.787Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "ForgetPassword.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Account\\ForgetPassword.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\ForgetPassword.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Account\\ForgetPassword.cshtml",
-              "RelativeToolTip": "Views\\Account\\ForgetPassword.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-27T17:41:25.91Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 61,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -916,31 +1117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAQwBAAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-25T05:44:04.873Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "ViewUsers.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Admin\\ViewUsers.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\ViewUsers.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Admin\\ViewUsers.cshtml",
-              "RelativeToolTip": "Views\\Admin\\ViewUsers.cshtml",
-              "ViewState": "AQIAABQAAAAAAAAAAAAwwDMAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-21T15:30:34.344Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 62,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Contact\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Contact\\Delete.cshtml",
@@ -952,19 +1129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Contact\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Contact\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Contact\\Index.cshtml",
-              "RelativeToolTip": "Views\\Contact\\Index.cshtml",
-              "ViewState": "AQIAAAMAAAB0//////8vwBcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-04T17:37:51.749Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 63,
               "Title": "AddComment.cshtml",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Contact\\AddComment.cshtml",
               "RelativeDocumentMoniker": "Views\\Contact\\AddComment.cshtml",
@@ -976,7 +1141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 78,
               "Title": "20240404190506_startup0.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Migrations\\20240404190506_startup0.cs",
               "RelativeDocumentMoniker": "Migrations\\20240404190506_startup0.cs",
@@ -988,7 +1153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 64,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Feedback\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Feedback\\Delete.cshtml",
@@ -1000,7 +1165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 65,
               "Title": "ForgotPasswordViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Models\\ForgotPasswordViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ForgotPasswordViewModel.cs",
@@ -1012,7 +1177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 66,
               "Title": "20240404180439_Add contact.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Migrations\\20240404180439_Add contact.cs",
               "RelativeDocumentMoniker": "Migrations\\20240404180439_Add contact.cs",
@@ -1024,7 +1189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 67,
               "Title": "20240404175542_Add contact.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Migrations\\20240404175542_Add contact.cs",
               "RelativeDocumentMoniker": "Migrations\\20240404175542_Add contact.cs",
@@ -1036,7 +1201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 68,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -1048,7 +1213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 69,
               "Title": "20240402050756_Add Request Id in Student.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Migrations\\20240402050756_Add Request Id in Student.cs",
               "RelativeDocumentMoniker": "Migrations\\20240402050756_Add Request Id in Student.cs",
@@ -1060,7 +1225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 70,
               "Title": "20240402045803_Add Request Id in Student.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Migrations\\20240402045803_Add Request Id in Student.cs",
               "RelativeDocumentMoniker": "Migrations\\20240402045803_Add Request Id in Student.cs",
@@ -1072,7 +1237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 71,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Students\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Students\\Index.cshtml",
@@ -1084,7 +1249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 72,
               "Title": "AddRequest.cshtml",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Students\\AddRequest.cshtml",
               "RelativeDocumentMoniker": "Views\\Students\\AddRequest.cshtml",
@@ -1096,79 +1261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "Logout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Account\\Logout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Logout.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Account\\Logout.cshtml",
-              "RelativeToolTip": "Views\\Account\\Logout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-28T17:48:38.483Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Admin\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Admin\\Login.cshtml",
-              "RelativeToolTip": "Views\\Admin\\Login.cshtml",
-              "ViewState": "AQIAAAkAAAAgZmZmZmYkwBwAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-21T16:40:35.936Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "EditEmployee.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Admin\\EditEmployee.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\EditEmployee.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Admin\\EditEmployee.cshtml",
-              "RelativeToolTip": "Views\\Admin\\EditEmployee.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAABOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-22T07:03:31.532Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "DeleteEmployee.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Admin\\DeleteEmployee.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\DeleteEmployee.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Admin\\DeleteEmployee.cshtml",
-              "RelativeToolTip": "Views\\Admin\\DeleteEmployee.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-22T07:23:33.649Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "AddStudent.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Admin\\AddStudent.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\AddStudent.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Admin\\AddStudent.cshtml",
-              "RelativeToolTip": "Views\\Admin\\AddStudent.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-23T01:09:14.594Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 66,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Admin\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Admin\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Admin\\Create.cshtml",
-              "RelativeToolTip": "Views\\Admin\\Create.cshtml",
-              "ViewState": "AQIAAAEAAADiZWZmZiYwwDQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-22T05:59:25.095Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 73,
               "Title": "20240326023751_starting3.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Migrations\\20240326023751_starting3.cs",
               "RelativeDocumentMoniker": "Migrations\\20240326023751_starting3.cs",
@@ -1180,7 +1273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 74,
               "Title": "20240326034040_start33.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Migrations\\20240326034040_start33.cs",
               "RelativeDocumentMoniker": "Migrations\\20240326034040_start33.cs",
@@ -1192,7 +1285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 75,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Students\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Students\\Delete.cshtml",
@@ -1204,7 +1297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 76,
               "Title": "20240323042931_start.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Migrations\\20240323042931_start.cs",
               "RelativeDocumentMoniker": "Migrations\\20240323042931_start.cs",
@@ -1216,7 +1309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 77,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\students project\\student_permit_system\\Views\\Students\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Students\\Edit.cshtml",
